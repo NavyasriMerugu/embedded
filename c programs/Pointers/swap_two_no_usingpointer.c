@@ -26,5 +26,5 @@ temp=*b;
 } 
 // output:enter a=34
         //enter b=56
-    before swap: a=34,b=56
-    after swap: a=56,b=34                           
+   // before swap: a=34,b=56
+   // after swap: a=56,b=34                           
