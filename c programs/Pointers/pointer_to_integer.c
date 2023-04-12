@@ -28,5 +28,5 @@ int main()
 	
 }
  
-output:p=0x7ffffcc00 ptr=ox7ffffcc00
-       p=0x7ffffcc04 ptr=0x7ffffcc14
+//output:p=0x7ffffcc00 ptr=ox7ffffcc00
+      // p=0x7ffffcc04 ptr=0x7ffffcc14
